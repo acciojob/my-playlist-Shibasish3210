@@ -11,7 +11,10 @@
         border-radius: 3px;
         padding: 1vh;
       }
-      .player_one > a {
+     .player_one > li{
+        list-style: none;
+      }
+      .player_one > li > a {
         display: block;
         text-decoration: none;
         color: black;
